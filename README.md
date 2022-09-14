@@ -1,3 +1,6 @@
+# Intro
+A map that demonstrates live wildfires around the globe with their names and locations using APIs from Nasa and Google Maps.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
